@@ -1,0 +1,8 @@
+h1{
+    background-color: yellow;
+    color: red;
+    border-style:dashed;
+    border-radius: 30px;
+    border-width: 10px 7px 4px 2px;
+    border-color: red pink blue green; 
+}
