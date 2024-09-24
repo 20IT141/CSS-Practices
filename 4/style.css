@@ -1,0 +1,21 @@
+
+body{
+    background-color:red;
+    background-size: cover;
+    background-image: url(img/1.jpeg);
+    background-repeat: no-repeat;
+}
+
+/* contant background color */
+h3{
+    background-color:white;
+}
+
+/* contant background images */
+h4{
+    color: rgba(255, 0, 0, 0.436);
+    background-image: url(img/2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
