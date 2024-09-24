@@ -1,0 +1,20 @@
+
+/* Noraml Color */
+#colors{
+    color: red;
+}
+
+/* RGB(0,0,0) color */
+#rgb{
+    color: rgb(255,0,0);
+}
+
+/* Hexa color format */
+#hexa{
+    color: #ff0000;
+}
+
+/* HSL color Format */
+#hsl{
+    color: hsl(0,100%,50%);
+}
