@@ -1,0 +1,22 @@
+
+/* Universal Selector  */
+    /* 
+*{
+    color: blue;
+} 
+    */
+
+/* Class Selector */
+.lorem30{
+    color: red;
+}
+
+ /* id Selector  */
+#lorem10{
+    color:blue;
+}
+
+/* same proparty use for different elements */
+h4,p{
+    color: blueviolet;
+}
